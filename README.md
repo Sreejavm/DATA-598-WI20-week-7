@@ -1,5 +1,5 @@
 
-# mysimplecompendium
+# Mysimplecompendium
 
 <!-- badges: start -->
 <!-- badges: end -->
@@ -24,5 +24,5 @@ library(mysimplecompendium)
 product_f(2,3)
 sum_f(2,3)
 ```
-Please note that the 'mysimplecompendium' project is released with a Contributor Code of Conduct. By contributing to this project, you agree to abide by its terms.
+Please note that the 'mysimplecompendium' project is released with a [Code of Conduct](https://github.com/Sreejavm/DATA-598-WI20-week-7/blob/master/CODE_OF_CONDUCT.md). By contributing to this project, you agree to abide by its terms.
 
