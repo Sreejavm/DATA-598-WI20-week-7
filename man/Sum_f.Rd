@@ -7,10 +7,11 @@
 sum_f(x, y)
 }
 \arguments{
-\item{y}{}
+\item{x}{A number}
+\item{y}{A number}
 }
 \value{
-
+The sum of \code{x} and \code{y}
 }
 \description{
 The function returns the sum of two numbers

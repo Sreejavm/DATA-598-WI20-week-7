@@ -7,10 +7,11 @@
 product_f(x, y)
 }
 \arguments{
-\item{y}{}
+\item{x}{A number}
+\item{y}{A number}
 }
 \value{
-
+The product of \code{x} and \code{y}
 }
 \description{
 The function returns the product of two numbers

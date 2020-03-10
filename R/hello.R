@@ -2,10 +2,10 @@
 #'
 #' The function returns the sum of two numbers
 #'
-#' @param x
-#' @param y
+#' @param x A number.
+#' @param y A number.
 #'
-#' @return
+#' @return The sum of \code{x} and \code{y}
 #' @export
 #'
 #' @examples
@@ -19,10 +19,10 @@ sum_f <- function(x,y) {
 #'
 #'The function returns the product of two numbers
 #'
-#' @param x
-#' @param y
+#' @param x A number
+#' @param y A number
 #'
-#' @return
+#' @return The product of \code{x} and \code{y}
 #' @export
 #'
 #' @examples

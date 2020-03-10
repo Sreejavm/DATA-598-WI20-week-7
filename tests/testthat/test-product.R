@@ -1,5 +1,5 @@
 context("Product function")
 
-test_that("multiplication works", {
-  expect_equal(2 * 3, 6)
+test_that("product_f works", {
+  expect_equal(product_f(2,3), 6)
 })
